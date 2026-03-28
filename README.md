@@ -30,7 +30,7 @@ flask_feedback/
 2. Open project folder
 3. Install Flask: pip install flask
 4. Run the app: python app.py
-5. Open in browser: http://127.0.0.1:5000
+5. Open in browser: [http://127.0.0.1:5000](http://127.0.0.1:5000/)
 
 ## 💡 How It Works
 - User submits feedback through a form
